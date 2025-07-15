@@ -1,0 +1,4 @@
+requests
+PyMuPDF
+pypdf
+google-generativeai
